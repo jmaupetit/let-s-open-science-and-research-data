@@ -1,0 +1,12 @@
+{
+  "name": "tailordev-talk",
+  "version": "0.0.1",
+  "devDependencies": {
+    "bower": "*",
+    "node-sass": "*",
+    "grunt": "*",
+    "grunt-cli": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-sass": "*"
+  }
+}

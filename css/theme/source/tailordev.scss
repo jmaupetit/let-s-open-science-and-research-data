@@ -1,0 +1,18 @@
+/*
+    TailorDev Talk, 2015
+    Theme base on reveal.js default theme
+ */
+
+// Reveal imports
+@import "template/mixins";
+@import "template/settings";
+@import "settings-overrides";  // Theme settings
+@import "template/theme";
+
+// Other third party
+@import "css3-mixins";
+
+// Presentation partials
+@import "fonts";
+@import "base";
+@import "slides";

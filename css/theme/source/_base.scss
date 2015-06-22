@@ -1,0 +1,34 @@
+/*
+    TailorDev Talk, 2015
+    Base.
+ */
+
+a {
+    color: $linkColor;
+    text-decoration: none;
+}
+
+blockquote {
+    p:first-child {
+        margin-top: 0;
+    }
+}
+
+img.slide-logo {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+footer.slide-footer {
+    position: fixed;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    background-color: $mainColor;
+    width: 100%;
+    color: $mainColorAlt;
+    font-family: $mainFont;
+    font-weight: 300!important;
+}

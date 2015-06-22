@@ -1,0 +1,7 @@
+{
+  "name": "tailordev-talk",
+  "dependencies": {
+    "reveal.js": "*",
+    "sass-css3-mixins": "*"
+  }
+}
