@@ -9,15 +9,47 @@ a {
 }
 
 blockquote {
-    p:first-child {
-        margin-top: 0;
+
+    &:before {
+        position: absolute;
+        top: 0.4em;
+        left: 0.3em;
+        content: "\00201c";
+        font-size: 2em;
     }
+
+    &:after {
+        position: absolute;
+        bottom: 0.4em;
+        right: 0.3em;
+        content: "\00201e";
+        font-size: 2em;
+    }
+
+    p {
+        font-size: 0.8em !important;
+        font-style: italic !important;
+
+        &:first-child {
+            margin-top: 0;
+            text-indent: 1em;
+        }
+    }
+}
+
+code {
+    text-transform: none !important;
 }
 
 img.slide-logo {
     position: fixed;
     top: 10px;
     left: 10px;
+    z-index: 1000000;
+}
+
+small {
+    font-size: 0.4em !important;
 }
 
 footer.slide-footer {
