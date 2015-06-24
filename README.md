@@ -1,7 +1,9 @@
 # E1S3
 
-Date: 2015/06/26
-Location: Toulon, France
+* Date: 2015/06/26
+* Location: Toulon, France
+
+Check this out: [http://jmaupetit.github.io/let-s-open-science-and-research-data/](http://jmaupetit.github.io/let-s-open-science-and-research-data/)
 
 ## Abstract
 
