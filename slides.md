@@ -65,13 +65,13 @@ TailorDev
 
 ---
 
-![The Grant Cycle](./images/phd050611s.gif)
+![The Grant Cycle](images/phd050611s.gif)
 
 <small>Source: [PhD Comics](http://www.phdcomics.com/comics/archive.php?comicid=1431)</small>
 
 ---
 
-![Publish or perish PhD Comics](./images/phd100311s.gif)
+![Publish or perish PhD Comics](images/phd100311s.gif)
 
 <small>Source: [PhD Comics](http://www.phdcomics.com/comics/archive.php?comicid=1443)</small>
 
@@ -120,7 +120,7 @@ TailorDev
 
 ---
 
-![OpenScience pillars](/images/Open_Science_-_Prinzipien.png "Open Science pillars")
+![OpenScience pillars](images/OpenScience_pillars.png "Open Science pillars")
 
 <small>Source: [Wikipedia](https://en.wikipedia.org/wiki/Open_science)</small>
 
