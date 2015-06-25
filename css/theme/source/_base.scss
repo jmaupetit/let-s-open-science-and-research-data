@@ -6,6 +6,13 @@
 a {
     color: $linkColor;
     text-decoration: none;
+
+    img {
+        padding: 0.3em !important;
+        &:hover {
+            background-color: rgba($mainColor, 0.2) !important;
+        }
+    }
 }
 
 blockquote {
@@ -41,11 +48,23 @@ code {
     text-transform: none !important;
 }
 
-img.slide-logo {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    z-index: 1000000;
+img {
+    @include transition(all 0.4s ease-in);
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    &.slide-logo {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        z-index: 1000000;
+    }
+
+    &.rotate {
+        @include rotate(-90);
+    }
 }
 
 small {
