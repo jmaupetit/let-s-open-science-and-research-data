@@ -78,6 +78,22 @@
 				]
 			});
 
+
+			Reveal.addEventListener('ready', function( event ){
+				// Rotate on click
+				var images = document.getElementsByTagName("img");
+
+				for(i=0 ; i < images.length ; i++){
+				    images[i].addEventListener("click", function( event ) {
+				    	if( this.className === 'rotate' ){
+				    		this.className = '';
+				    	} else {
+					        this.className = 'rotate';
+				    	}
+				        console.log('fired');
+				    }, false);
+				}
+			});
 		</script>
 	</body>
 </html>

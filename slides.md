@@ -108,7 +108,7 @@ Author: Julien Maupetit
 
 > Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society, amateur or professional.
 
-<small>Source: [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Open_Science_-_Prinzipien.png)</small>
+<small>Source: [Wikipedia](https://en.wikipedia.org/wiki/Open_science)</small>
 
 ---
 
@@ -122,7 +122,23 @@ Author: Julien Maupetit
 
 ![OpenScience pillars](images/OpenScience_pillars.png "Open Science pillars")
 
-<small>Source: [Wikipedia](https://en.wikipedia.org/wiki/Open_science)</small>
+<small>Source: [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Open_Science_-_Prinzipien.png)</small>
+
+---
+
+### Reproducibility
+
+> Data not available. Study cannot be reproduced.
+
+<small>Source: [Ingo Rohlfing's blog](https://ingorohlfing.wordpress.com/2015/06/18/two-proposals-for-incentivizing-data-archiving/)</small>
+
+---
+
+### Publishing is not enough
+
+> On estime que les publications permettent d’accéder à environ 10 % de celles-ci, le reste restant disponible mais non utilisé sur les disques durs d’ordinateurs. Dans certaines disciplines, des résultats valables et importants restent non publiés et beaucoup de données sont sous-utilisées ou perdues (c’est en particulier le cas des données issues de résultats négatifs qui sont oubliées).
+
+<small>Source: Les enjeux éthiques du partage des données scientifiques • Avis du COMETS (7 mai 2015)</small>
 
 ---
 
@@ -139,11 +155,33 @@ Author: Julien Maupetit
 
 ---
 
-### Misinformation
+### EU, governments & national institutions, all agree about scientific open data, but...
 
 ---
 
-### Reputation economy
+### 1. A lack of information
+
+Many (most?) scientists are not aware of Science 2.0
+
+---
+
+### 2. A reputation economy
+
+> [...] academic system [...] is not driven by monetary incentives, nor the desire for scientific progress, but by individual reputation-expressed in (high ranked journal) publications.
+
+<small>Source: [arXiv:1503.00481](http://arxiv.org/abs/1503.00481)</small>
+
+> The career system has to gratify open science.
+
+<small>Source: EuroScientist • Open Science Special Issue • June 2015</small>
+
+---
+
+### 3. Editors
+
+> Une fois accumulées, ces données, si elles ne sont pas dans des bases publiques [...] mais restent exclusivement entre les mains des éditeurs, risquent de constituer pour les éditeurs un «marché de données» fermé et autonome par rapport aux publications, alors qu’elles n’étaient demandées que pour contrôler les résultats.
+
+<small>Source: Les enjeux éthiques du partage des données scientifiques • Avis du COMETS (7 mai 2015)</small>
 
 ----
 <!-- ---------- Section ---------- -->
@@ -152,10 +190,17 @@ Author: Julien Maupetit
 
 ---
 
+[![Altmetric](images/Logo_altmetric.png "Logo Altmetric")](http://www.altmetric.com/)
+
+* Better metrics for science impact
+* Aggregates many sources (blog, twitter, etc.)
+
+---
+
 [![Harvard Dataverse](images/Logo_dataverse.png "Logo Dataverse")](http://dataverse.org/)
 
 * Research data repository
-* Citable
+* **Citable**
 * Open Source
 
 ---
@@ -163,7 +208,7 @@ Author: Julien Maupetit
 [![figshare](images/Logo_figshare.png "Logo figshare")](http://figshare.com/)
 
 * Research data repository
-* Citable
+* **Citable**
 * Privacy control
 
 ---
@@ -172,7 +217,8 @@ Author: Julien Maupetit
 
 > The Global Alliance of Genomics and Health is dedicated to enabling secure sharing of genomic and clinical data.
 
-I can haz API with Schemas
+* 285 institutions (30 countries)
+* I can haz API with Schemas
 
 ---
 
@@ -180,6 +226,12 @@ I can haz API with Schemas
 
 * EU + US + Australia
 * Not restricted to a particular domain
+
+---
+
+### Open Science Framework
+
+[![Open Science Framework](images/Logo_osf.png "Logo OSF")](https://osf.io/)
 
 ----
 <!-- ---------- Section ---------- -->
@@ -190,9 +242,9 @@ I can haz API with Schemas
 
 ### Open Science in 2015
 
-* Open Science now is where Open Source was 10 years ago
-* Sharing data is not enough
-* We need to develop new tools to make research data valuable
+* Open Source ~10 years ago
+* "Sharing data is not enough"
+* Develop new tools to make research data valuable
 * Spread the word
 
 ----
