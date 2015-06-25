@@ -40,23 +40,23 @@ Author: Julien Maupetit
 
 ---
 
-Paris Diderot University
+[![Paris Diderot University](images/Logo_ParisDiderot.png "Logo Paris Diderot")](http://www.univ-paris-diderot.fr/)
 
 ---
 
-Clermont-Ferrand
+[![Clermont Auvergne](images/Logo_ASM.png "Logo ASM")](http://www.asm-rugby.com/)
 
 ---
 
-ComSource
+[![ComSource](images/Logo_ComSource.png "Logo ComSource")](http://www.comsource.fr/)
 
 ---
 
-Clermont'ech
+[![Clermont'ech](images/Logo_Clermontech.png "Logo Clermont'ech")](http://clermontech.org/)
 
 ---
 
-TailorDev
+[![TailorDev](images/Logo_TailorDev.png "Logo TailorDev")](http://tailordev.fr/)
 
 ----
 <!-- ---------- Section ---------- -->
