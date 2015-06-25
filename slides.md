@@ -152,7 +152,7 @@ TailorDev
 
 ---
 
-![Harvard Dataverse](images/Logo_dataverse.png "Logo Dataverse")
+[![Harvard Dataverse](images/Logo_dataverse.png "Logo Dataverse")](http://dataverse.org/)
 
 * Research data repository
 * Citable
@@ -160,7 +160,7 @@ TailorDev
 
 ---
 
-![figshare](images/Logo_figshare.png "Logo figshare")
+[![figshare](images/Logo_figshare.png "Logo figshare")](http://figshare.com/)
 
 * Research data repository
 * Citable
@@ -168,7 +168,7 @@ TailorDev
 
 ---
 
-![GA4GH](images/Logo_ga4gh.png "Logo GA4GH")
+[![GA4GH](images/Logo_ga4gh.png "Logo GA4GH")](http://genomicsandhealth.org/)
 
 > The Global Alliance of Genomics and Health is dedicated to enabling secure sharing of genomic and clinical data.
 
@@ -176,7 +176,7 @@ I can haz API with Schemas
 
 ---
 
-![RDA](images/Logo_RDA.png "Logo Research Data Alliance")
+[![RDA](images/Logo_RDA.png "Logo Research Data Alliance")](https://rd-alliance.org/)
 
 * EU + US + Australia
 * Not restricted to a particular domain
