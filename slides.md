@@ -194,3 +194,10 @@ I can haz API with Schemas
 * Sharing data is not enough
 * We need to develop new tools to make research data valuable
 * Spread the word
+
+----
+
+### Say hello
+
+[julien@tailordev.fr](mailto:julien@tailordev.fr?subject=Hello)
+
