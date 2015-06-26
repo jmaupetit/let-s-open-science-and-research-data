@@ -40,6 +40,12 @@
                 color: lighten($mainColor, 30%);
                 margin-bottom: 0;
             }
+
+            span.social {
+                padding-top: 0.2em;
+                font-size: 0.8em;
+                font-weight: bold;
+            }
         }
 
         h2 {

@@ -12,6 +12,8 @@ Author: Julien Maupetit
     <h4>Now</h4>
 
     <h6 class="author">Julien Maupetit</h6>
+    <span class="social"><a href="https://twitter.com/julienmaupetit" target="_blank">@julienmaupetit</a></span>
+    </p>
 </div>
 
 ----
