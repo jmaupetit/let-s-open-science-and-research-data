@@ -21,7 +21,7 @@ Author: Julien Maupetit
 
 ### Disclaimer
 
-> I am not trying to be exhaustive & this is not evangelism.
+> I am not trying to be exhaustive.
 
 ----
 <!-- ---------- Section ---------- -->
@@ -89,7 +89,7 @@ Author: Julien Maupetit
 
 <small>Source: [Wikipedia](https://en.wikipedia.org/wiki/H-index)</small>
 
-<!-- A researcher with a h-index of 35 has 35 of its publications cited at least 35 times -->
+*A researcher with a h-index of 35 has 35 of its publications cited at least 35 times.*
 
 ---
 
@@ -128,6 +128,10 @@ Author: Julien Maupetit
 
 ---
 
+### Why does it matter?
+
+---
+
 ### Reproducibility
 
 > Data not available. Study cannot be reproduced.
@@ -146,9 +150,13 @@ Author: Julien Maupetit
 
 ### Gateway to innovation
 
+![Innovation](images/noun_13680.svg)
+
 ---
 
 ### Citizen scientists
+
+![I want you](images/i-want-you.jpg)
 
 ----
 <!-- ---------- Section ---------- -->
@@ -157,7 +165,7 @@ Author: Julien Maupetit
 
 ---
 
-### EU, governments & national institutions, all agree about scientific open data, but...
+**EU, governments & national institutions, all agree about scientific open data, but...**
 
 ---
 
